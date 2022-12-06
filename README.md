@@ -15,4 +15,3 @@ Benifits @@ 1 Access Software source code,   2 Project download 3, can conatact 
 
 Loss @@	1, Software / Code , All not perfect code, problems , error , bug, different japanies ferench Language ,
 	2, code working  before impemnts check / test, Bar code , error,,, Our new Software can Hacked.
-
